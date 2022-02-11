@@ -12,5 +12,9 @@ Using -> HTML, CSS, JS, React
     cd socialmedia
     npm install
     ```
+3. #### And finally
+    ```bash
+    npm start
+    ```
 
 to be developed...
