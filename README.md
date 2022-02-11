@@ -1,4 +1,4 @@
-# socialmedia
+# Basic Social Media App
 
 Using -> HTML, CSS, JS, React 
 
